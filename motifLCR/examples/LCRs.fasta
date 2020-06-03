@@ -1,0 +1,32 @@
+>beg=262;end=295;sp|Q6GZX3|002L_FRG3G Uncharacterized protein 002L OS=Frog virus 3 (isolate Goorha) OX=654924 GN=FV3-002L PE=4 SV=1
+PPPPPPKPTPPTPPTPPTPPTPPTPPTPPTPRP
+>beg=339;end=366;sp|Q6GZV6|019R_FRG3G Putative serine/threonine-protein kinase 019R OS=Frog virus 3 (isolate Goorha) OX=654924 GN=FV3-019R PE=3 SV=1
+SRPSGVSRTSGTSGSSGSSASSRPPNS
+>beg=27;end=59;sp|Q6GZV5|020R_FRG3G Uncharacterized protein 020R OS=Frog virus 3 (isolate Goorha) OX=654924 GN=FV3-020R PE=4 SV=1
+PPGPNPPKPDPPKPDPPKMHMPKKKPHWMDPH
+>beg=29;end=43;sp|Q91G63|034R_IIV6 Uncharacterized protein 034R OS=Invertebrate iridescent virus 6 OX=176652 GN=IIV6-034R PE=4 SV=1
+PLPPPTPPTPPTPT
+>beg=99;end=139;sp|P09087|ABDB_DROME Homeobox protein abdominal-B OS=Drosophila melanogaster OX=7227 GN=Abd-B PE=1 SV=3
+PPPVPLVAVQQQHLPAPQQQQQLQQQQQQQQQQLATTPVA
+>beg=48;end=68;sp|Q96I13|ABHD8_HUMAN Protein ABHD8 OS=Homo sapiens OX=9606 GN=ABHD8 PE=2 SV=1
+AGPAPAAAPPPPSSASSDAA
+>beg=48;end=68;sp|Q4R584|ABHD8_MACFA Protein ABHD8 OS=Macaca fascicularis OX=9541 GN=ABHD8 PE=2 SV=1
+AGPAPASAAPPPLSASSDAA
+>beg=177;end=204;sp|O75914|PAK3_HUMAN Serine/threonine-protein kinase PAK 3 OS=Homo sapiens OX=9606 GN=PAK3 PE=1 SV=2
+EPPLAPPVSEEEDEEEEEEEDENEPPP
+>beg=177;end=204;sp|Q7YQL4|PAK3_PANTR Serine/threonine-protein kinase PAK 3 OS=Pan troglodytes OX=9598 GN=PAK3 PE=2 SV=1
+EPPLAPPVSEEEDEEEEEEEDENEPPP
+>beg=1;end=30;sp|Q91G56|042R_IIV6 Uncharacterized protein 042R OS=Invertebrate iridescent virus 6 OX=176652 GN=IIV6-042R PE=4 SV=1
+ATLQQAQQQNNQLTQQNNQLTQQNNQLTQ
+>beg=95;end=119;sp|Q196Y7|073R_IIV3 Uncharacterized protein 073R OS=Invertebrate iridescent virus 3 OX=345201 GN=IIV3-073R PE=4 SV=1
+SPKQQVQPHQQTHQQSQQTHNKTV
+>beg=17;end=41;sp|P19084|11S3_HELAN 11S globulin seed storage protein G3 OS=Helianthus annuus OX=4232 GN=HAG3 PE=3 SV=1
+CIARHQQRQQQQNQCQLQNIEALE
+>beg=190;end=222;sp|P19084|11S3_HELAN 11S globulin seed storage protein G3 OS=Helianthus annuus OX=4232 GN=HAG3 PE=3 SV=1
+QAQAQSQQQQQRQPRQQSPQRQRQRQRQGQGQ
+>beg=84;end=98;sp|P01091|2SS1_BRANA Napin-1 (Fragment) OS=Brassica napus OX=3708 PE=2 SV=1
+QQIQQQEQQQGKQQ
+>beg=128;end=143;sp|P01090|2SS2_BRANA Napin-2 OS=Brassica napus OX=3708 PE=2 SV=2
+KQQIQQQGQQQGKQQ
+>beg=75;end=92;sp|P80208|2SS3_BRANA Napin-3 OS=Brassica napus OX=3708 PE=1 SV=1
+QQVRQQQGQQGQQLQQV

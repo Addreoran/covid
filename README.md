@@ -1,0 +1,2 @@
+# covid
+Analise for publication.
